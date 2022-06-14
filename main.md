@@ -1,7 +1,7 @@
 # Enough Multivariable Calc for Basic Deep Learning
 Assumes basic knowledge about vectors
 
-With Calc I and II, you learned how to take integral derivatives of single variable functions.
+With Calc I and II, you learned how to take integral and derivatives of single variable functions.
 
 That is functions that took a single input in, and produced a single value out.
 
